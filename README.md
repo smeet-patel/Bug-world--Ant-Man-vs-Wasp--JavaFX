@@ -5,6 +5,8 @@ Using a graphical interface, I made an artificial simulation game inspired from 
 
 The mechanics of the game. The bugs are animated on a bug object which is updated at each keyframe.  All bugs have independent speed value which determines how fast they move. I implemented a collision detection method that allows the bugs to rebound of the boundary, obstacles or other moving bugs. As the bugs animate, the bug shrinks in size and losses energy and eventually dies, but when they collide with the food sources, the bugs regain the energy to survive. The objective of this simulation is the find out which bugs type is the best fit over many rounds. 
 
+<img src="antmanvswaspGAME.png" style="border-radius: 15px">
+
 
 For this game, I learnt about:
 
